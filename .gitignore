@@ -1,0 +1,23 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+*.log
+
+# Other files
+*.tmp
+*.geany
+.geany
+
+# Backup files
+*~
+*.bak
+*.old
+
+# Compressed files
+*.tar.gz
+*.zip
+*.img.xz
+*.AppImage
